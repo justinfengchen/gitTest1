@@ -6,6 +6,7 @@ public class HelloWorld2 {
 	 * @param args
 	 */
 	public static void main(String[] args) { 
+		System.err.println("csychh");
 		System.err.println("e11ric");
 		System.err.println("eric111");
 
