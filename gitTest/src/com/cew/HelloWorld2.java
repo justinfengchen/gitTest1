@@ -9,6 +9,8 @@ public class HelloWorld2 {
 		// TODO Auto-generated method stub
 		System.err.println("eric11");
 		
+		System.err.println("eric");
+		
 	}
 
 }
