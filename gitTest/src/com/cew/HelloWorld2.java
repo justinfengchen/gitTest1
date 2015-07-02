@@ -11,6 +11,8 @@ public class HelloWorld2 {
 		
 		System.err.println("eric");
 		
+		System.err.println("eric");
+		
 	}
 
 }
