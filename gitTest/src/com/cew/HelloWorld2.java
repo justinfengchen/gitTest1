@@ -7,7 +7,6 @@ public class HelloWorld2 {
 	 */
 	public static void main(String[] args) { 
 		System.err.println("csychh");
-		System.err.println("cew1");
 		System.err.println("e11ric");
 		System.err.println("eric111");
 
